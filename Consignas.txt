@@ -1,0 +1,4 @@
+1)crear un repocitorio
+2)clonarlo
+3)crear gitignore()
+4) crear vs2015 y config(que compile en todas las verciones de 32 bits)
